@@ -19,7 +19,7 @@ Feel free to reach out if you think we can work together or if you just want to 
 Let’s make the web a little less boring, one well-written document at a time. 
 
 ---
-*Reach me at*: [manmeetmehta113@gmail.com]  
+*Reach me at*: <a href="mailto:manmeetmehta113@gmail.com" target="_blank">manmeetmehta113@gmail.com</a>  
 
 These are my work samples:
 
